@@ -1,15 +1,15 @@
-# Student-app :student:
-**Welcome to my simple application web** :wave: :computer:
+# Student-app 🧑‍🎓
+**Welcome to my simple application web** 👋 💻
 
 This project is a simple application about managing students: 
 - Handling of student information.
 - Manage student information Like :Name,email,age.
 
-# Back-end (JAVA):coffee: :
+# Back-end (JAVA) ☕ :
 
-### Spring :leaves: [link](https://github.com/BadrOuaddah/Student-Application/tree/master/back-end)
+### Spring 🍃 [link](https://github.com/BadrOuaddah/Student-Application/tree/master/back-end)
 
-# Front-end (JAVASCRIPT):globe_with_meridians::
+# Front-end (JAVASCRIPT) 🌐 :
 
 ### Angular 🅰️ [link](https://github.com/BadrOuaddah/Student-Application/tree/master/front-end/student-angular)
 
